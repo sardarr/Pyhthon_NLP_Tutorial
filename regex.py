@@ -42,7 +42,7 @@ Brackets:
 
 
 
-importing module
+# importing module
 import re
 
 example_st='Alex is 19 years old and Carl is 20 years ol and his friend Jessica is 120 years old'
