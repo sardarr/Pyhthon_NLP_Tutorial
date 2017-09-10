@@ -42,10 +42,10 @@ Brackets:
 
 
 
-#importing module
-# import re
-#
-# example_st='Alex is 19 years old and Carl is 20 years ol and his friend Jessica is 120 years old'
-# ages=re.findall(r'\d{1,3}',example_st)
-# names=re.findall(r'[A-Z][a-z]*',example_st)
+importing module
+import re
+
+example_st='Alex is 19 years old and Carl is 20 years ol and his friend Jessica is 120 years old'
+ages=re.findall(r'\d{1,3}',example_st)
+names=re.findall(r'[A-Z][a-z]*',example_st)
 
